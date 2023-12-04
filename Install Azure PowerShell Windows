@@ -1,0 +1,18 @@
+#Install Azure PowerShell Windows
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ps#       Install-module -name Az -allowClobber -scope CurrentlJser
+
+ps#       Do you want PowerShe116et to install and import the NuGet provider now? [Y] Yes [N] No [S] Suspend Help (default is "y") ; Y
+ps#       Are you sure you want to nstall the modules from [Y] Yes [A] Yes to All [N] No [L] No to All [S] Suspend Help (default is "A"); A
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ps#       Set-ExecutionPolicy RemoteSigned
+
+ps#       Do you want to change the execution policy? [Y] Yes [A] Yes to All [N] No [L] No to All [S] Suspend Help (default is A
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ps#       Connect-AzAccount
+
+ps#       Only run scripts from trusted publishers. [V] Never run [D] Do not run [R] Run once [A] Always run Help (default is "D"): A
+
+ps#       Connect-AzAccount
+---------------------------------------------------------------------------------------------------------------------------------------------------
